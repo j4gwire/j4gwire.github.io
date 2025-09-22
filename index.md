@@ -26,7 +26,7 @@ const currentFocus = {
   primary: ["Web Development", "Cybersecurity", "OSINT"],
   learning: ["Cloud Security", "DevSecOps", "Advanced Python"],
   tools: ["Docker", "AWS", "Burp Suite", "Custom Scripts"],
-  nextGoal: "CEH Certification"
+  nextGoal: "Cybersecurity Consulting Firm"
 };
 
 function dailyRoutine() {
@@ -65,10 +65,10 @@ for project in projects:
 
 | Project | Language | Status | What It Does |
 |:--------|:---------|:-------|:-------------|
-| WebSecure Scanner | Python | 🟢 Active | Finds security holes in web apps |
-| OSINT Toolkit | Python | 🟡 In Progress | Gathers public info ethically |
-| SecureAuth System | Node.js | 🔴 Planning | Multi-factor authentication |
-| Personal Dashboard | React | ✅ Complete | Tracks my learning progress |
+| CloudRip | Python | 🟢 Active | Designed to bypass Cloudflare protection and help discover the real IP addresses of domains by enumerating subdomains. |
+| SentinelIP | Golang | 🟡 In Development | Real-time IP threat detection service with proxy & VPN detection and IP threat intelligence. |
+| DataHawk | Python | 🟢 Active | OSINT tool for scraping websites to identify sensitive information. |
+| Cheat Sheets | 🔴 Markdown | Incomplete | A growing collection of cheat sheets covering webdev, cybersecurity, and IT for quick reference and learning. |
 
 ### Here's what drives me every day
 
@@ -117,7 +117,7 @@ for project in projects:
 
 <dl>
 <dt>Started Coding</dt>
-<dd>2020 - Began with HTML and CSS</dd>
+<dd>2012 - Began with HTML and CSS</dd>
 <dt>First Language</dt>
 <dd>JavaScript (still my go-to for quick prototypes)</dd>
 <dt>Favorite Language</dt>
