@@ -2,122 +2,140 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hey there! I'm **Jason**, a *self-taught developer* who's passionate about ~~breaking things~~ building secure applications. You can check out my [latest projects on GitHub](https://github.com/j4gwire) or browse around this page to learn more about what I do.
 
-[Link to another page](./another-page.html).
+I've been on this coding journey for a while now, and it's been quite the ride. Started with simple HTML pages and now I'm diving deep into cybersecurity and building tools that actually matter.
 
-There should be whitespace between paragraphs.
+# About Me
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I'm based in California and spend my days (and nights) working on everything from web applications to security tools. GitHub has been my home for version control and collaboration, letting me work on projects with people from anywhere in the world.
 
-# Header 1
+## My Development Philosophy
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> This might sound cheesy, but I truly believe this:
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+That's basically been my entire self-taught journey in a nutshell.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+### What I'm Currently Working On
+
+```javascript
+// My current focus areas in code form
+const currentFocus = {
+  primary: ["Web Development", "Cybersecurity", "OSINT"],
+  learning: ["Cloud Security", "DevSecOps", "Advanced Python"],
+  tools: ["Docker", "AWS", "Burp Suite", "Custom Scripts"],
+  nextGoal: "CEH Certification"
+};
+
+function dailyRoutine() {
+  return "Code, learn, secure, repeat";
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+```python
+# My typical project workflow
+projects = ["web_apps", "security_tools", "osint_scripts"]
+
+for project in projects:
+    while not project.is_perfect():
+        project.code()
+        project.test()
+        project.break_things()
+        project.fix_things()
+        project.learn_something_new()
 ```
 
-#### Header 4
+#### The Skills I've Picked Up
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   **Frontend Development** - Making things look good and work smoothly
+*   **Backend Development** - The behind-the-scenes magic that makes everything function
+*   **Cybersecurity** - Because someone has to keep the bad guys out
+*   **OSINT** - Ethical information gathering and research
 
-##### Header 5
+##### My Go-To Technologies
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  **Python** - For automation, security tools, and when I need to get stuff done fast
+2.  **JavaScript** - Frontend magic and Node.js backend work
+3.  **PHP** - Still love it for web development, fight me
+4.  **Linux/Bash** - Because the command line is where the real work happens
 
-###### Header 6
+###### Current Project Status
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Project | Language | Status | What It Does |
+|:--------|:---------|:-------|:-------------|
+| WebSecure Scanner | Python | 🟢 Active | Finds security holes in web apps |
+| OSINT Toolkit | Python | 🟡 In Progress | Gathers public info ethically |
+| SecureAuth System | Node.js | 🔴 Planning | Multi-factor authentication |
+| Personal Dashboard | React | ✅ Complete | Tracks my learning progress |
 
-### There's a horizontal rule below this.
+### Here's what drives me every day
 
 * * *
 
-### Here is an unordered list:
+### My favorite development tools:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   **VS Code** - Where the magic happens
+*   **Git** - Because version control saves lives
+*   **Docker** - Containers make everything easier
+*   **Burp Suite** - For when I need to test security
 
-### And an ordered list:
+### And my learning process usually goes like this:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1.  Find something I don't understand
+2.  Break it down into smaller pieces
+3.  Build something with it
+4.  Break that something
+5.  Fix it and understand why it broke
 
-### And a nested list:
+### My approach to different areas:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- **Web Development**
+  - Start with the user experience
+  - Make it secure from day one
+    - Input validation everywhere
+    - Proper authentication flows
+- **Cybersecurity**
+  - Think like an attacker
+  - Build defenses accordingly
+  - Always assume breach mentality
+- **OSINT**
+  - Stay ethical and legal
+  - Document everything
+  - Respect privacy boundaries
 
-### Small image
+### A little bit about my setup
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![My Workspace](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400)
 
-### Large image
+### The bigger picture of what I'm building
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Security First Development](https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600)
 
-
-### Definition lists can be used with HTML syntax.
+### Some technical details about my background
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Started Coding</dt>
+<dd>2020 - Began with HTML and CSS</dd>
+<dt>First Language</dt>
+<dd>JavaScript (still my go-to for quick prototypes)</dd>
+<dt>Favorite Language</dt>
+<dd>Python (the swiss army knife of programming)</dd>
+<dt>Specialty</dt>
+<dd>Security-focused development</dd>
+<dt>Location</dt>
+<dd>California, USA</dd>
+<dt>Coffee Consumption</dt>
+<dd>Too much, but it keeps the code flowing</dd>
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this: const reallyLongVariableNameThatGoesOnForever = "Sometimes you encounter code like this in the wild and you just have to deal with horizontal scrolling because the developer didn't think about line length limits when they were writing their variable names and string literals.";
 ```
 
+Thanks for taking the time to check out my page! Whether you're here to collaborate, learn, or just browse around, I hope you found something interesting. Feel free to reach out through GitHub if you want to chat about development, security, or anything tech-related.
+
 ```
-The final element.
+Keep coding, stay curious, and remember - every expert was once a beginner.
 ```
