@@ -111,7 +111,7 @@ for project in projects:
 
 ### The bigger picture of what I'm building
 
-![Security First Development](https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600)
+![Security First Development](/assets/img/devsecops.jpg)
 
 ### Some technical details about my background
 
