@@ -107,7 +107,7 @@ for project in projects:
 
 ### A little bit about my setup
 
-![My Workspace](/assets/img/3050.png)
+![My Workspace](/assets/img/3050.jpg)
 
 ### The bigger picture of what I'm building
 
