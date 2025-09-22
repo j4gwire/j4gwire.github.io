@@ -107,11 +107,11 @@ for project in projects:
 
 ### A little bit about my setup
 
-![My Workspace](/assets/img/3050.jpg)
+![My Workspace](https://www.computronicsmultivision.com/uploaded_files/product/1755689900.jpeg)
 
 ### The bigger picture of what I'm building
 
-![Security First Development](/assets/img/devsecops.jpg)
+![Security First Development](https://miro.medium.com/v2/resize:fit:800/0*J1iQ9vm58cKEYqTn.jpg)
 
 ### Some technical details about my background
 
