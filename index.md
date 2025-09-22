@@ -107,7 +107,7 @@ for project in projects:
 
 ### A little bit about my setup
 
-![My Workspace](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400)
+![My Workspace]((/assets/img/3050.png)
 
 ### The bigger picture of what I'm building
 
