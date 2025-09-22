@@ -68,7 +68,7 @@ for project in projects:
 | CloudRip | Python | 🟢 Active | Designed to bypass Cloudflare protection and help discover the real IP addresses of domains by enumerating subdomains. |
 | SentinelIP | Golang | 🟡 In Development | Real-time IP threat detection service with proxy & VPN detection and IP threat intelligence. |
 | DataHawk | Python | 🟢 Active | OSINT tool for scraping websites to identify sensitive information. |
-| Cheat Sheets | 🔴 Markdown | Incomplete | A growing collection of cheat sheets covering webdev, cybersecurity, and IT for quick reference and learning. |
+| Cheat Sheets | Markdown | 🔴 Incomplete | A growing collection of cheat sheets covering webdev, cybersecurity, and IT for quick reference and learning. |
 
 ### Here's what drives me every day
 
