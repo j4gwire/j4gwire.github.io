@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hey there! I'm **Jason**, a *self-taught developer* who's passionate about ~~breaking things~~ building secure applications. You can check out my [latest projects on GitHub](https://github.com/j4gwire) or browse around this page to learn more about what I do.
+Hey there! I'm **Jason**, A *developer* who's passionate about ~~breaking things~~ building secure applications. You can check out my [latest projects on GitHub](https://github.com/j4gwire) or browse around this page to learn more about what I do.
 
 I've been on this coding journey for a while now, and it's been quite the ride. Started with simple HTML pages and now I'm diving deep into cybersecurity and building tools that actually matter.
 
