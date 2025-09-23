@@ -21,7 +21,7 @@ That's basically been my entire self-taught journey in a nutshell.
 ### What I'm Currently Working On
 
 ```javascript
-// My current focus areas in code form
+// My current focus areas 
 const currentFocus = {
   primary: ["Web Development", "Cybersecurity", "OSINT"],
   learning: ["Cloud Security", "DevSecOps", "Advanced Python"],
