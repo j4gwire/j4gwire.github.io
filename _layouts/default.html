@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -16,21 +15,54 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+        
+        <!-- Social Links Section -->
+        {% if site.github_username or site.linkedin_username or site.twitter_username or site.email %}
+        <div class="social-links">
+          <h3>Connect With Me</h3>
+          <ul style="list-style: none; padding: 0;">
+            {% if site.github_username %}
+            <li style="margin: 5px 0;">
+              <a href="https://github.com/{{ site.github_username }}" target="_blank">
+                🐙 GitHub
+              </a>
+            </li>
+            {% endif %}
+            {% if site.linkedin_username %}
+            <li style="margin: 5px 0;">
+              <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank">
+                💼 LinkedIn
+              </a>
+            </li>
+            {% endif %}
+            {% if site.twitter_username %}
+            <li style="margin: 5px 0;">
+              <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
+                🐦 Twitter
+              </a>
+            </li>
+            {% endif %}
+            {% if site.email %}
+            <li style="margin: 5px 0;">
+              <a href="mailto:{{ site.email }}">
+                📧 Email
+              </a>
+            </li>
+            {% endif %}
+          </ul>
+        </div>
+        {% endif %}
+        
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
-
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
-
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -40,9 +72,7 @@
         {% endif %}
       </header>
       <section>
-
       {{ content }}
-
       </section>
       <footer>
         {% if site.github.is_project_page %}
