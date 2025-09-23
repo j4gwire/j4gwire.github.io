@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/jaegis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://j4gwire.github.io
+  * I am jaegis (https://keybase.io/jaegis) on keybase.
+  * I have a public key with fingerprint 4EEB D27E 1AF1 33EF DD41  8D57 35F7 B19C 3B07 8864
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010178d229f7edbd1246804c4a6f8df613871be7e24c24fa8c11c09cc74613e8bc3d0a",
+      "fingerprint": "4eebd27e1af133efdd418d5735f7b19c3b078864",
+      "host": "keybase.io",
+      "key_id": "35f7b19c3b078864",
+      "kid": "010178d229f7edbd1246804c4a6f8df613871be7e24c24fa8c11c09cc74613e8bc3d0a",
+      "uid": "487b64bc54a2fa0c2bde579a8563b319",
+      "username": "jaegis"
+    },
+    "merkle_root": {
+      "ctime": 1756584174,
+      "hash_meta": "7e00f4ea2d4e605d4b0028baa3ebbee4b3580648ae884244ec866cf9e1e6e45d",
+      "seqno": 27055658
+    },
+    "revoke": {
+      "sig_ids": [
+        "24c7600df3d7427d8a9b12265489e7999d04f274a809e04c3833a354df802aa20f"
+      ]
+    },
+    "service": {
+      "hostname": "j4gwire.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1756584176,
+  "expire_in": 157680000,
+  "prev": "0ade143c215567b56a658d35747fae15b2ecfe9ede45604bdc94d0aa356e72a8",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMLAAnicrVNdaB1FGL3RajEQ8SVWTSKy1KLmp7MzszuzVw2FFrHUtCUWDBh7nZ9v
+790m9+7t7t7EmEYKsVBNNbViUKrUYtFCKfhTU5L6U6oPpoFaK7RVCEYEEQwxeWmK
+Nq2z0YKIj+7LsDPnO+d855v5subGTHXV4Ddh+9h+dqRq8tSzlUzho465fkuGus/K
+9ltdsLRAt4Y4yXUF2spayEY24xpjz2egpbYxdTmiigrX59p3bcKZLYEBpgpTX3Bl
+2wp5SjFqzoBLRTQSVpPlB6U8ROUoKCWGlgJIjRnYwrcJAV9ranPtMOL4TNqeIhIx
+zl1qCgthnFYYc1LE0BKEZs/85Jbs/Qf+f/ZdWaKjnEmXSuVQgX2BFJYaHOYJ7rhE
+EttLgTFEJVEEg94mIB/E1kCTVYSoqxtyURgmabQqCVKAzRzX4dRm1LQn4kKuCIkw
+dQwQ8ikIrCm4yNFUIoS5FIKAlABUEocjl3IBnFNMKSjuusr3wAYXqKONixi2l0Ir
+ixlyUg1jIYKesAtS9TjIm9RiK/ukZbpmLkLaJ5pRzDQXnrQxdh3KPWCe52lEfcyo
+4MgDExvhhAjiUO1zhIXAyLeeGkjVop5ALZGnY7rePs33BhG05IOkUJF/TawchUmo
+wm5zXEiScpxN00n6yim+F2Tub6acDEra3BRT0QNRHIQlk5ZB/js4t8mCZ8pGJBek
+CIeZ4Zov1YGedPxCg02JwraJgUnHFaZOE4dR5guwHYlB+eCBNrG5iEqtPGrmbVp0
+gWHB/5EkNz5F3nCa+EoiqURgDZw62bksU1WdufmmG9InlKm+5bbrD+tCcfm1ztFN
+3Qt1u1af/u7+19c2bj3rsB306MYf9639bM0TV8YOPf7y1+ie7WJb3QvPN+J56+AP
+c22tb9e++d5BsnDHO/t/u3ysefP38WzHh/1TI6sP197ZPHFu8qEHFlfhdWHv5NS5
+nSM/717xcevd05U9uv6NhkvHMo9m16+cHm17qeHpi9f6Tn5+e+3cJzvPXz6/YWbx
+cMcu5g48d7FlsVNdHRw+8CB/d8/Zh//49fRw2xetE8mGkfuc4zPv711z5tYVr1y4
+cmBm46e7616rSe6dnx0enBaXzoyR5sdWvgpidP1PX41vqp/YMrTvrhfnp4Y2j7/V
+OHSiZt3VQzO/r2r/ZUfNsg+2LLQXG/bO1j/yrRr/E5Hiii4=
+=T1GI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaegis
+
+==================================================================
