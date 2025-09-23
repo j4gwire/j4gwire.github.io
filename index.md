@@ -105,7 +105,7 @@ for project in projects:
   - Document everything
   - Respect privacy boundaries
 
-### A little bit about my setup
+### My daily driver
 
 ![My Workspace](https://www.computronicsmultivision.com/uploaded_files/product/1755689900.jpeg)
 
