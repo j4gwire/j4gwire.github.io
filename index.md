@@ -123,7 +123,7 @@ for project in projects:
 <dt>Favorite Language</dt>
 <dd>Python (the swiss army knife of programming)</dd>
 <dt>Specialty</dt>
-<dd>Security-focused development</dd>
+<dd>Providing comprehensive security assessments, penetration testing, and vulnerability management services</dd>
 <dt>Location</dt>
 <dd>California, USA</dd>
 <dt>Coffee Consumption</dt>
