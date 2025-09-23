@@ -107,7 +107,7 @@ for project in projects:
 
 ### My daily driver
 
-![My Workspace](https://m.media-amazon.com/images/I/71ESICiM1XL._UF894,1000_QL80_.jpg)
+![My Workspace](https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/K_rzUyFXYC-hp-victus-15-laptop-494494169-i-4-1200wx1200h.jpeg)
 
 ### The bigger picture of what I'm building
 
